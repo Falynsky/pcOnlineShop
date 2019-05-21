@@ -1,2 +1,2 @@
 # pcOnlineShop
-A final database project for database class.
+Projekt zaliczeniowy z Baz Danych.
